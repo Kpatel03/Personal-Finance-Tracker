@@ -14,3 +14,8 @@ Procedure:
 • Create pie and bar charts to show expense distribution 
 
 • Add drop-down lists for months and categories
+
+Link Tableau Public (project uploaded) :
+
+https://public.tableau.com/views/PersonalFinanceTrackerProject1/PersonalFinanceTracker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
